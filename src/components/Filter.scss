@@ -1,0 +1,17 @@
+.filter {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.6rem;
+  margin: 0.6rem;
+  border-bottom: 0.1rem #c0c0c0, solid;
+  div {
+    flex: 1;
+  }
+}
+
+.filter-order,
+.filter-size {
+  select {
+    margin-left: 0.5rem;
+  }
+}
