@@ -7,3 +7,14 @@
   box-sizing: border-box;
   font-family: $font-one;
 }
+
+button {
+  padding: 0.5rem;
+  border: 0.1rem #c0c0c0 solid;
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
+
+.primary {
+  background-color: #ffc000;
+}
